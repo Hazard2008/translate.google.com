@@ -1,0 +1,22 @@
+> npm init --yes
+Wrote to /home/Hazard2008/whyamilikethis/package.json:
+
+{
+  "name": "my_package",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hazard2008/whyamilikethis/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hazard2008/whyamilikethis/issues"
+  },
+  "homepage": "https://github.com/Hazard2008/whyamilikethis/"
+}
