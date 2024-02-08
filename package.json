@@ -1,5 +1,4 @@
 > npm init --yes
-{
   "name": "my_package",
   "description": "",
   "version": "1.0.0",
@@ -17,4 +16,3 @@
     "url": "https://github.com/Hazard2008/whyamilikethis/issues"
   },
   "homepage": "https://github.com/Hazard2008/whyamilikethis/"
-}
